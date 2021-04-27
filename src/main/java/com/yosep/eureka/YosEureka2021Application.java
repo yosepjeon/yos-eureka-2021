@@ -9,7 +9,6 @@ import org.springframework.core.env.Environment;
 
 @EnableEurekaServer
 @SpringBootApplication
-@RefreshScope
 public class YosEureka2021Application {
 
 	public static void main(String[] args) {
